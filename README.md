@@ -209,8 +209,8 @@ difference between safe haemodynamic support and triggering a cascade toward RVF
 ## How to Run
 
 ```bash
-git clone https://github.com/Shristy-byte/lvad-biventricular-model.git
-cd lvad-biventricular-model
+git clone https://github.com/Shristy-byte/biventicular_lvad_simulation.git
+cd biventicular_lvad_simulation
 pip install -r requirements.txt
 python lvad_simulation_v2.py
 ```
@@ -223,7 +223,7 @@ Runtime is under 10 seconds on any modern CPU.
 ## Project Structure
 
 ```
-lvad-biventricular-model/
+biventicular_lvad_simulation/
 ├── lvad_simulation_v2.py        ← full simulation + all 8 plots
 ├── requirements.txt
 ├── lvad_outputs/
