@@ -5,8 +5,7 @@ both sides of the heart — and why pumping too aggressively can trigger
 Right Ventricular Failure (RVF), one of the leading causes of post-LVAD mortality.
 
 Built as part of the **Cardiovascular & Respiratory Mechanics** course project
-at **IIT Madras**.
-Authors: Shristy Roy `MD24B034` · Kripa Mariam Roy `MD24B032`
+Authors: Shristy Roy `MD24B034'
 
 ---
 
